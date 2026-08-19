@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": "100100001",
+      "name": "Java Backend Developer",
+      "area": {"id": "1", "name": "Москва"},
+      "salary": {"from": 250000, "to": 400000, "currency": "RUR", "gross": false},
+      "employer": {"name": "Yandex"},
+      "snippet": {
+        "requirement": "Java 17+, Spring Boot, PostgreSQL",
+        "responsibility": "Разработка микросервисов"
+      },
+      "employment": {"id": "full", "name": "Полная занятость"},
+      "alternate_url": "https://hh.ru/vacancy/100100001",
+      "published_at": "2026-06-01T10:00:00+0300"
+    },
+    {
+      "id": "100100002",
+      "name": "Go Developer",
+      "area": {"id": "2", "name": "Санкт-Петербург"},
+      "salary": null,
+      "employer": {"name": "Avito"},
+      "snippet": {"requirement": "Go, Kubernetes", "responsibility": null},
+      "employment": {"id": "full", "name": "Полная занятость"},
+      "alternate_url": "https://hh.ru/vacancy/100100002",
+      "published_at": "2026-06-02T15:30:00+0300"
+    },
+    {
+      "id": "100100003",
+      "name": "Junior PHP",
+      "area": {"id": "76", "name": "Ростов-на-Дону"},
+      "salary": {"from": 60000, "to": null, "currency": "RUR"},
+      "employer": {"name": "WebStudio"},
+      "snippet": {"requirement": "PHP, Laravel", "responsibility": null},
+      "employment": null,
+      "alternate_url": "https://hh.ru/vacancy/100100003",
+      "published_at": "2026-06-03T09:15:00+0300"
+    }
+  ],
+  "found": 3,
+  "pages": 1,
+  "per_page": 20,
+  "page": 0
+}
